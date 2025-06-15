@@ -83,5 +83,3 @@ The following YouTube creators produced the tutorials referenced in this guide. 
 - [Rob Mulla](https://www.youtube.com/@robmulla) – *Exploratory Data Analysis with Pandas*
 - [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst) – *Web Scraping with BeautifulSoup*
 - [Corey Schafer](https://www.youtube.com/@Coreyms) – *Setting the PATH and Managing Python Versions on Windows*
-
-# Python-Bootcamp
